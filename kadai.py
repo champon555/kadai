@@ -1,5 +1,4 @@
 
-
 # じゃんけんで石を溜めてガチャを引く。
 import random
 import tkinter as tk
@@ -145,3 +144,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = JankenGachaApp(root)
     root.mainloop()
+
